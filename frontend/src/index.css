@@ -1,0 +1,21 @@
+:root {
+  --main-color: #16479d;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: var(--main-color);
+  margin-bottom: 1em;
+  font-size: 2.1em;
+}
+
+.bold {
+  font-weight: bold;
+  color: var(--main-color);
+}
