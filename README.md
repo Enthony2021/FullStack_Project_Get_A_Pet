@@ -1,4 +1,4 @@
-# Projeto_MVC_-FullStack_Toughts
+# Projeto_MVC_REACT-FullStack_GET_A_PET
 Projeto FullStack! desenvolvido juntamente com o Prof° Matheus Battist no curso de "Node.js do Zero a Maestria com diversos Projetos".
 
 ## O que temos aqui:
